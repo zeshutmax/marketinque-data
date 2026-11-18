@@ -1,0 +1,164 @@
+name,domain,list,category,status,in_official_registry,kind,evidence
+OpenAI,openai.com,cloud100,AI models,docs_only,False,remote,https://developers.openai.com/learn/docs-mcp
+Anthropic,anthropic.com,cloud100,AI models,docs_only,False,remote,https://platform.claude.com/docs/mcp
+Stripe,stripe.com,cloud100,payments,product,True,registry,com.stripe/mcp
+Databricks,databricks.com,cloud100,data platform,product,False,remote,https://www.databricks.com/blog/announcing-managed-mcp-servers-unity-catalog-and-mosaic-ai-integration
+Canva,canva.com,cloud100,design tool,product,True,registry,com.canva.mcp/mcp
+Ramp,ramp.com,cloud100,spend management,product,False,remote,https://docs.ramp.com/developer-api/v1/ramp-mcp
+Navan,navan.com,cloud100,travel and expense,product,False,remote,https://navan.com/blog/navan-mcp-powering-agentic-ai
+Anysphere (Cursor),cursor.com,cloud100,AI code editor,none,False,-,
+Deel,deel.com,cloud100,global payroll,product,False,remote,https://developer.deel.com/mcp/introduction
+Notion,notion.com,cloud100,workspace and docs,product,True,registry,com.notion/mcp
+Grammarly,grammarly.com,cloud100,AI writing assistant,product,False,remote,https://superhuman.com/developers
+Celonis,celonis.com,cloud100,process mining,product,False,remote,https://developer.celonis.com/mcp-server-asset/integrations/mcp-amazon-quick
+Grafana Labs,grafana.com,cloud100,observability,product,True,registry,io.github.grafana/mcp-grafana
+Netskope,netskope.com,both,cloud security,product,False,remote,https://docs.netskope.com/en/netskope-copilot-for-mcp-server
+Gusto,gusto.com,cloud100,payroll and HR,product,False,remote,https://docs.gusto.com/app-integrations/docs/mcp
+Rippling,rippling.com,cloud100,HR and IT,product,False,remote,https://www.rippling.com/platform/ai/rippling-mcp
+Tanium,tanium.com,cloud100,endpoint management,product,False,remote,https://www.tanium.com/blog/bringing-tanium-s-real-time-endpoint-intelligence-into-enterprise-ai-workflows-with-mcp
+Miro,miro.com,cloud100,visual collaboration,product,True,registry,io.github.miroapp/mcp-server
+Abnormal AI,abnormal.ai,cloud100,email security,none,False,-,
+Attentive,attentive.com,cloud100,SMS marketing,product,False,remote,https://docs.attentive.com/docs/mcp-about
+Cohesity,cohesity.com,cloud100,data backup and security,product,False,remote,https://www.cohesity.com/ja-jp/newsroom/press/cohesity-maestro-data-protection-recovery-and-security-intelligence/
+Arctic Wolf,arcticwolf.com,cloud100,managed security,none,False,-,
+Flock Safety,flocksafety.com,cloud100,public safety tech,none,False,-,
+VAST Data,vastdata.com,cloud100,AI data storage,product,False,local,https://github.com/vast-data/vast-admin-mcp
+AlphaSense,alpha-sense.com,cloud100,market intelligence,product,False,remote,https://www.alpha-sense.com/resources/product-articles/superanalyst-mcp/
+Perplexity AI,perplexity.ai,cloud100,AI search,product,True,registry,"ai.perplexity/mcp-server, io.github.perplexityai/mcp-server"
+Checkr,checkr.com,cloud100,background checks,product,False,remote,https://docs.checkr.com/mcp/
+OneTrust,onetrust.com,cloud100,privacy compliance,product,False,remote,https://developer.onetrust.com/onetrust/reference/mcp
+Plaid,plaid.com,cloud100,financial data APIs,product,False,remote,https://plaid.com/docs/resources/mcp/
+Talkdesk,talkdesk.com,cloud100,contact center,none,False,-,
+Carta,carta.com,cloud100,equity management,product,False,remote,https://carta.com/blog/inside-the-carta-mcp-server/
+Postman,postman.com,cloud100,API platform,product,True,registry,com.postman/postman-mcp-server
+Zoho,zoho.com,cloud100,business software suite,product,False,remote,https://www.zoho.com/mcp/
+Airtable,airtable.com,cloud100,no-code database,product,True,registry,com.airtable/mcp
+Dataiku,dataiku.com,cloud100,AI and analytics platform,product,False,remote,https://doc.dataiku.com/dss/latest/agents/mcp-server.html
+Fivetran,fivetran.com,cloud100,data integration,product,False,both,https://fivetran.com/docs/context-layer/agent-context-mcp
+Cribl,cribl.io,cloud100,telemetry data pipeline,product,False,both,https://docs.cribl.io/copilot/cribl-mcp-server/
+Dialpad,dialpad.com,cloud100,business phone,product,False,remote,https://developers.dialpad.com/docs/dialpad-mcp-server
+1Password,1password.com,cloud100,password manager,product,False,local,https://www.1password.dev/environments/mcp-server
+Checkout.com,checkout.com,cloud100,payments,product,True,registry,io.github.checkout/mcp
+Automation Anywhere,automationanywhere.com,cloud100,process automation,product,False,remote,https://docs.automationanywhere.com/r/automation-360/configure-mcp-server
+Motive,gomotive.com,cloud100,fleet management,product,False,remote,https://helpcenter.gomotive.com/hc/en-us/articles/38105893445789-Motive-MCP-for-Claude-and-ChatGPT
+Vercel,vercel.com,cloud100,frontend cloud,product,True,registry,com.vercel/vercel-mcp
+Glean,glean.com,cloud100,enterprise AI search,product,True,registry,com.glean/mcp
+Airwallex,airwallex.com,cloud100,global payments,product,False,remote,https://www.airwallex.com/docs/developer-tools/ai/developer-mcp
+Clio,clio.com,cloud100,legal practice management,product,False,remote,https://www.clio.com/about/press/connect-clio-to-claude/
+NinjaOne,ninjaone.com,cloud100,IT management,product,False,-,https://www.ninjaone.com/press/katana-ai-and-mcp/
+Zapier,zapier.com,cloud100,workflow automation,product,True,registry,com.zapier/mcp
+Lambda,lambda.com,cloud100,GPU cloud,none,False,-,
+Brex,brex.com,cloud100,corporate cards,product,False,remote,https://developer.brex.com/docs/mcp
+Snyk,snyk.io,cloud100,developer security,product,True,registry,io.snyk/mcp
+Gong,gong.io,cloud100,revenue intelligence,product,False,remote,https://help.gong.io/docs/about-gong-mcp-server
+Intercom,intercom.com,cloud100,customer service,product,False,remote,https://developers.intercom.com/docs/guides/mcp
+Guild,guild.com,cloud100,workforce education,none,False,-,
+HiBob,hibob.com,cloud100,HR platform,product,False,remote,https://apidocs.hibob.com/docs/hibob-mcp-server
+Collibra,collibra.com,cloud100,data governance,product,False,both,https://www.collibra.com/products/mcp-server
+Abridge,abridge.com,cloud100,clinical AI documentation,none,False,-,
+AppsFlyer,appsflyer.com,cloud100,mobile attribution,product,True,registry,com.appsflyer/mcp
+Calendly,calendly.com,cloud100,scheduling,product,False,remote,https://developer.calendly.com/docs/mcp/calendly-mcp-server
+Komodo Health,komodohealth.com,cloud100,healthcare data,product,False,local,https://docs.komodohealth.com/alpha/mcp-server
+Workato,workato.com,cloud100,integration automation,product,False,remote,https://docs.workato.com/en/mcp.html
+Pendo,pendo.io,cloud100,product analytics,product,False,remote,https://www.pendo.io/product/mcp
+Vanta,vanta.com,cloud100,compliance automation,product,False,both,https://developer.vanta.com/docs/vanta-mcp
+Webflow,webflow.com,cloud100,website builder,product,True,registry,com.webflow/mcp
+Forter,forter.com,cloud100,fraud prevention,product,False,remote,https://www.forter.com/llms.txt
+Benchling,benchling.com,cloud100,life sciences R&D,product,False,,https://www.benchling.com/news/benchling-launches-ai-connectors-to-power-data-ecosystem
+BrowserStack,browserstack.com,cloud100,software testing,product,True,registry,io.github.browserstack/mcp-server
+Midjourney,midjourney.com,cloud100,AI image generation,unclear,False,remote,https://mcp.midjourney.com/mcp
+Personio,personio.com,cloud100,HR software,product,False,remote,https://support.personio.de/hc/en-us/articles/38314656674333-Personio-MCP-server-Beta-access-overview
+ClickUp,clickup.com,cloud100,project management,product,False,remote,https://help.clickup.com/hc/en-us/articles/33335772678423-What-is-ClickUp-MCP
+Automattic,automattic.com,cloud100,web publishing,product,False,remote,https://developer.wordpress.com/docs/mcp/
+ClickHouse,clickhouse.com,cloud100,analytics database,product,False,both,https://clickhouse.com/docs/products/cloud/features/ai-ml/remote-mcp
+Axonius,axonius.com,cloud100,asset management security,product,False,remote,https://docs.axonius.com/docs/axonius-mcp-server
+Algolia,algolia.com,cloud100,search API,product,True,registry,io.github.algolia/algolia-productivity
+DeepL,deepl.com,cloud100,AI translation,product,False,both,https://developers.deepl.com/docs/getting-started/deepl-mcp-server
+Hugging Face,huggingface.co,cloud100,AI model hub,product,True,registry,co.huggingface/hf-mcp-server
+Harness,harness.io,cloud100,software delivery,product,False,both,https://developer.harness.io/docs/platform/harness-ai/harness-mcp-server
+Island,island.io,cloud100,enterprise browser,product,False,local,https://www.island.io/ai/enterprise-browser-for-agents
+MaintainX,getmaintainx.com,cloud100,maintenance management,none,False,-,
+ElevenLabs,elevenlabs.io,cloud100,AI voice,product,True,registry,io.elevenlabs/mcp
+Cato Networks,catonetworks.com,cloud100,SASE networking,product,False,remote,https://support.catonetworks.com/hc/en-us/articles/34310215526685
+Cyera,cyera.com,cloud100,data security,product,False,,https://www.cyera.com/blog/cyera-mcp
+Runway,runway.com,cloud100,AI video generation,product,False,both,https://runway.com/news/mcp
+Fireworks AI,fireworks.ai,cloud100,AI inference,docs_only,False,remote,https://docs.fireworks.ai/ecosystem/integrations/development-setup
+Odoo,odoo.com,cloud100,ERP suite,none,False,-,
+Together AI,together.ai,cloud100,AI cloud,docs_only,False,remote,https://docs.together.ai/mcp
+dbt Labs,getdbt.com,cloud100,data transformation,product,False,both,https://docs.getdbt.com/blog/introducing-dbt-mcp-server
+Fal AI,fal.ai,cloud100,generative media platform,product,True,registry,io.github.fal-ai-community/mcp
+Mercor,mercor.com,cloud100,AI talent marketplace,unclear,False,,https://docs.mercor.com/mcp
+LaunchDarkly,launchdarkly.com,cloud100,feature management,product,False,both,https://launchdarkly.com/docs/home/getting-started/mcp
+Harvey,harvey.ai,cloud100,legal AI,product,False,remote,https://developers.harvey.ai/guides/harvey_mcp
+Sierra,sierra.ai,cloud100,AI customer agents,none,False,-,
+Papaya Global,papayaglobal.com,cloud100,global payroll,none,False,-,
+Brightwheel,mybrightwheel.com,cloud100,childcare management,none,False,-,
+GlossGenius,glossgenius.com,cloud100,salon booking software,none,False,-,
+Claroty,claroty.com,cloud100,industrial cybersecurity,product,False,,https://blog.claroty.com/blog/introducing-the-model-context-protocol-mcp-server-for-claroty-xdome
+Chainguard,chainguard.dev,cloud100,secure container images,product,False,remote,https://www.chainguard.dev/docs/platform/mcp-servers/cg-api
+Synthesia,synthesia.io,cloud100,AI video,product,False,remote,https://www.synthesia.io/mcp
+Clay,clay.com,cloud100,data enrichment,product,False,remote,https://community.clay.com/x/announcements/msg_mm1zE3dd0fJ4/clay-mcp-now-live-in-claude-and-chatgpt-run-clay-w
+EvenUp,evenuplaw.com,cloud100,legal AI,none,False,-,
+Braze,braze.com,emcloud,customer engagement,product,False,both,https://braze.com/docs/developer_guide/mcp_server/
+Okta,okta.com,emcloud,identity management,product,False,both,https://developer.okta.com/blog/2025/09/22/okta-mcp-server
+PagerDuty,pagerduty.com,emcloud,incident management,product,False,both,https://support.pagerduty.com/main/docs/pagerduty-mcp-server
+Docusign,docusign.com,emcloud,e-signature,product,False,remote,https://developers.docusign.com/platform/mcp-server/
+Klaviyo,klaviyo.com,emcloud,email marketing,product,False,both,https://developers.klaviyo.com/en/docs/klaviyo_mcp_server
+Zeta Global,zetaglobal.com,emcloud,marketing data platform,none,False,-,
+AvePoint,avepoint.com,emcloud,data management,none,False,-,
+Procore,procore.com,emcloud,construction management,none,False,-,
+Veeva Systems,veeva.com,emcloud,life sciences cloud,product,False,remote,https://general.veevavault.dev/mcp/vault-mcp-server/overview
+BILL,bill.com,emcloud,AP/AR automation,product,False,remote,https://developer.bill.com/docs/bill-mcp-server
+Paylocity,paylocity.com,emcloud,payroll and HR,docs_only,False,remote,https://developer.paylocity.com/integrations/docs/integration-assistant-mcp
+Tenable,tenable.com,emcloud,vulnerability management,product,False,remote,https://docs.tenable.com/vulnerability-management/Content/getting-started/hexa-AI-MCP.htm
+JFrog,jfrog.com,emcloud,software supply chain,product,False,both,https://jfrog.com/help/r/jfrog-integrations-documentation/jfrog-mcp-server
+CrowdStrike,crowdstrike.com,emcloud,endpoint security,product,False,local,https://github.com/CrowdStrike/falcon-mcp
+Q2,q2.com,emcloud,digital banking,docs_only,False,remote,https://mcp-green.q2developer.com/
+GitLab,gitlab.com,emcloud,DevOps platform,product,True,registry,com.gitlab/mcp
+SailPoint,sailpoint.com,emcloud,identity security,product,False,remote,https://documentation.sailpoint.com/saas/help/ai/mcp.html
+Waystar,waystar.com,emcloud,healthcare payments,none,False,-,
+Paycom,paycom.com,emcloud,payroll and HR,none,False,-,
+Intapp,intapp.com,emcloud,professional services software,product,False,remote,https://api.docs.dealcloud.com/mcp
+RingCentral,ringcentral.com,emcloud,business communications,product,False,remote,https://developers.ringcentral.com/mcp/servers/
+nCino,ncino.com,emcloud,banking software,product,False,remote,https://developer.ncinomortgage.com/mortgage/docs/lo-mcp-server
+Agilysys,agilysys.com,emcloud,hospitality software,none,False,-,
+Rubrik,rubrik.com,emcloud,data security,product,False,local,https://www.rubrik.com/company/newsroom/press-releases/26/rubrik-adds-new-mcp-support-to-expand-access-to-agentic-cyber-resilience
+Zscaler,zscaler.com,emcloud,cloud security,product,False,local,https://www.zscaler.com/blogs/product-insights/zscaler-mcp-server-bringing-unified-security-automation-your-ai-agents
+SentinelOne,sentinelone.com,emcloud,endpoint security,product,False,local,https://github.com/Sentinel-One/purple-mcp
+Asana,asana.com,emcloud,work management,product,False,remote,https://developers.asana.com/docs/using-asanas-mcp-server
+Salesforce,salesforce.com,emcloud,CRM,product,False,both,https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html
+Samsara,samsara.com,emcloud,connected operations,product,False,remote,https://developers.samsara.com/docs/mcp
+Freshworks,freshworks.com,emcloud,customer service,product,False,remote,https://support.freshservice.com/support/solutions/articles/50000012678
+SPS Commerce,spscommerce.com,emcloud,retail supply chain,unclear,False,-,https://www.spscommerce.com/press/introduces-new-agentic-capabilities/
+Cellebrite,cellebrite.com,emcloud,digital forensics,none,False,-,
+Cloudflare,cloudflare.com,emcloud,edge network security,product,True,registry,com.cloudflare.mcp/mcp
+Qualys,qualys.com,emcloud,vulnerability management,unclear,False,remote,https://blog.qualys.com/product-tech/2026/07/07/qualys-cisco-cloud-control-studio-launch-partner
+Elastic,elastic.co,emcloud,search and observability,product,False,both,https://www.elastic.co/docs/explore-analyze/ai-features/agent-builder/mcp-server
+AppFolio,appfolio.com,emcloud,property management,product,False,remote,https://www.appfolio.com/blog/appfolio-connects-realm-x-to-anthropic-claude
+Shopify,shopify.com,emcloud,ecommerce platform,product,False,both,https://shopify.dev/docs/agents
+Workday,workday.com,emcloud,HR and finance,product,False,remote,https://blog.workday.com/en-us/custom-agents.html
+HubSpot,hubspot.com,emcloud,CRM,product,False,remote,https://developers.hubspot.com/docs/build-with-ai/remote-mcp-server
+Toast,toasttab.com,emcloud,restaurant POS,none,False,-,
+Sprinklr,sprinklr.com,emcloud,customer experience,product,False,remote,https://www.businesswire.com/news/home/20260715011693/en/
+Workiva,workiva.com,emcloud,financial reporting,unclear,False,-,https://workiva.gcs-web.com/news-releases/news-release-details/workiva-launches-specialized-ai-agents-and-intelligence-layer
+Adobe,adobe.com,emcloud,creative software,product,False,remote,https://experienceleague.adobe.com/en/docs/cx-enterprise-agentic-tools/using/tools/mcp-servers
+BlackLine,blackline.com,emcloud,financial close,none,False,-,
+Palantir,palantir.com,emcloud,data analytics,product,False,both,https://www.palantir.com/docs/foundry/palantir-mcp/overview
+Dynatrace,dynatrace.com,emcloud,observability,product,True,registry,io.github.Dynatrace/dynatrace-for-ai
+Twilio,twilio.com,emcloud,communications APIs,product,False,both,https://www.twilio.com/docs/mcp
+Palo Alto Networks,paloaltonetworks.com,emcloud,cybersecurity,product,False,local,https://cortex-docs.paloaltonetworks.com/cortex-xsiam/configure-cortex-xsiam/cortex-mcp-server
+monday.com,monday.com,emcloud,work management,product,True,registry,com.monday/monday.com
+Atlassian,atlassian.com,emcloud,team collaboration,product,True,registry,com.atlassian/atlassian-mcp-server
+Nutanix,nutanix.com,emcloud,hybrid cloud infrastructure,product,False,local,https://www.nutanix.com/press-releases/2026/nutanix-gives-enterprises-the-freedom-to-run-production-agentic-ai-their-way
+ServiceTitan,servicetitan.com,emcloud,trades business software,none,False,-,
+Snowflake,snowflake.com,emcloud,data cloud,product,False,remote,https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-mcp
+Five9,five9.com,emcloud,contact center,none,False,-,
+Wix,wix.com,emcloud,website builder,product,True,registry,"com.wix/mcp, com.wix/wixel"
+UiPath,uipath.com,emcloud,process automation,product,False,both,https://docs.uipath.com/orchestrator/automation-cloud/latest/user-guide/about-mcp-servers
+ServiceNow,servicenow.com,emcloud,IT workflow,product,False,remote,https://www.servicenow.com/docs/r/zurich/release-notes/mcp-server-console-rn.html
+MongoDB,mongodb.com,emcloud,database,product,False,both,https://www.mongodb.com/docs/mcp-server/overview/
+Datadog,datadoghq.com,emcloud,observability,product,False,remote,https://www.datadoghq.com/blog/datadog-remote-mcp-server/
+Figma,figma.com,emcloud,design tool,product,True,registry,com.figma.mcp/mcp
+Alkami,alkami.com,emcloud,digital banking,none,False,-,
+DigitalOcean,digitalocean.com,emcloud,cloud hosting,product,True,registry,com.digitalocean/mcp
+Fastly,fastly.com,emcloud,edge cloud,product,False,local,https://www.fastly.com/products/mcp-server
